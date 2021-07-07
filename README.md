@@ -6,6 +6,6 @@ This works is still undere development. All widgets are javascript-supported and
 
 ![img/hover-lines.PNG](img/hover-lines.PNG)
 
-- An image plot with hover-over pixel information (e.g. XY coordinates and Tile type for a map-like image)
+- An image plot with hover-over pixel information (e.g. XY coordinates and Tile type for a map-like image). The css style of the hover information is modifyable.
  
 ![img/map-capture.PNG](img/map-capture.PNG)
